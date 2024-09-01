@@ -1,5 +1,5 @@
 # Hi there, I'm Lokesh Shadani! 👋
-## Welcome to my GitHub profile! I'm a passionate web developer with a knack for creating intuitive and user-friendly applications.
+## Welcome to my GitHub profile! I'm a passionate  developer with a knack for creating intuitive and user-friendly applications.
 
 ## 🚀 About Me
 Web Developer: I specialize in building responsive and dynamic websites using modern web technologies.
